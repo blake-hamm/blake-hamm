@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @blake-hamm
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning time series RNN's.
-- 💞️ I’m looking to collaborate on Data Science projects applied to Economics
-- 📫 How to reach me: blakehamm.com
+- 🌱 I’m currently LSTM's.
+- 💞️ I’m looking to collaborate on Data Science projects applied to Micro and Macro Economics
+- 📫 How to reach me: https://www.linkedin.com/in/blakejhamm/
 
 <!---
 blake-hamm/blake-hamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
