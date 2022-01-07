@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blake-hamm
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning LSTM's and Django
+- 🌱 I’m currently learning LSTM's, Spark, Flask, DBT, Prefect and the Great Expectations
 - 💞️ I’m looking to collaborate on Data Science projects applied to Economics and Environmental studies
 - 📫 How to reach me: https://www.linkedin.com/in/blakejhamm/
