@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blake-hamm
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning LSTM's, Spark, Dash, DBT, Prefect and Airbyte
+- 🌱 I’m currently learning Dask, Dash, DBT, Prefect and Airbyte
 - 💞️ I’m looking to collaborate on Data Science projects applied to Economics and Environmental studies
 - 📫 How to reach me: https://www.linkedin.com/in/blakejhamm/
