@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @blake-hamm
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Dask, Dash, DBT, Prefect and Airbyte
-- 💞️ I’m looking to collaborate on Data Science projects applied to Economics and Environmental studies
+- 🧰 I'm a Senior Machine Learning Engineer at Capital One
+- 👀 I’m interested in Machine Learning Engineering, Kubernetes, DevOps and Security
+- 🌱 I’m learning Kubernetes, Packer, Ansible and Proxmox on my homelab
+- 💞️ I’m looking to collaborate on Machine Learning projects applied to Economics and Environmental studies
+- 💻 I user arch (BTW), but run Debian on the homelab
 - 📫 How to reach me: https://www.linkedin.com/in/blakejhamm/
