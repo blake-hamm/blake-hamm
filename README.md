@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blake-hamm
-- 🧰 I'm a Machine Learning Engineer at Capital One
+- 🧰 I'm a Machine Learning Engineer at Fidelity
 - 👀 I’m interested in Machine Learning Engineering, Kubernetes, DevOps and Security
 - 🌱 I’m learning Kubernetes, Packer, Ansible, Proxmox and Vault on my homelab
 - 💞️ I’m looking to collaborate on Machine Learning projects applied to Economics and Environmental studies
