@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blake-hamm
 - 🧰 I'm a Machine Learning Engineer at Fidelity
-- 👀 I’m interested in Machine Learning Engineering, Kubernetes, DevOps and Security
-- 🌱 I’m learning Kubernetes, Packer, Ansible, Proxmox and Vault on my homelab
-- 💞️ I’m looking to collaborate on Machine Learning projects applied to Economics and Environmental studies
-- 💻 I user arch (BTW), but run Debian on the homelab
+- 👀 I’m interested in MLops, Kubernetes, DevOps and Security
+- 🌱 I’m learning Traefik, Ansible, Proxmox and Argo on my homelab
+- 💞️ I’m looking to collaborate on Machine Learning projects applied to Economics, Environmental studies or security.
+- 💻 I use Debian for servers and desktops, but am very intrigued by NixOS.
 - 📫 How to reach me: https://www.linkedin.com/in/blakejhamm/
