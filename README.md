@@ -3,5 +3,5 @@
 - 👀 I’m interested in MLops, Kubernetes, DevOps and Security
 - 🌱 I’m learning Traefik, Ansible, NixOS and Argo on my homelab
 - 💞️ I’m looking to collaborate on Machine Learning projects applied to Economics, Environmental studies or security.
-- 💻 I use Debian for servers and desktops, but am very intrigued by NixOS.
+- 💻 I have made the switch to NixOS.
 - 📫 How to reach me: https://www.linkedin.com/in/blakejhamm/
