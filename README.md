@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @blake-hamm
-- 🧰 I'm a Machine Learning Engineer at phData.
+- 🧰 I'm a Machine Learning Engineer and Consultant.
 - 👀 I’m interested in Data, Machine Learning, MLops, Kubernetes, GitOps and Security.
-- 🌱 I’m learning NixOS, Argo and networking on my homelab.
 - 💞️ I’m looking to collaborate on Machine Learning projects applied to economics, environmental studies or security.
-- 💻 I run NixOS BTW.
+- 💻 I run Debian and NixOS BTW.
 - 📫 How to reach me: https://www.linkedin.com/in/blakejhamm/
