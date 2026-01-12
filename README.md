@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blake-hamm
 - 🧰 I'm a Machine Learning Engineer and Consultant.
-- 👀 I’m interested in Data, Machine Learning, MLops, Kubernetes, GitOps and Security.
-- 💞️ I’m looking to collaborate on Machine Learning projects applied to economics, environmental studies or security.
-- 💻 I run Debian, Talos and NixOS BTW.
-- 📫 How to reach me: https://www.linkedin.com/in/blakejhamm/
+- 👀 I’m interested in Data, AI, MLops, Kubernetes and Security.
+- 💞️ I’m looking to collaborate on open source projects related to self-hosted AI, privacy, non-profit organizations or sustainability.
+- 💻 I run Debian, Talos and NixOS BTW in my [homelab](https://docs.bhamm-lab.com).
+- 🌐 Check my professional website here - https://site.bhamm-lab.com
