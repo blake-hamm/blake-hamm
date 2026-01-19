@@ -3,4 +3,4 @@
 - 👀 I’m interested in Data, AI, MLops, Kubernetes and Security.
 - 💞️ I’m looking to collaborate on open source projects related to self-hosted AI, privacy, non-profit organizations or sustainability.
 - 💻 I run Debian, Talos and NixOS BTW in my [homelab](https://docs.bhamm-lab.com).
-- 🌐 Check my professional website here - https://site.bhamm-lab.com
+- 🌐 Check my website here - https://site.bhamm-lab.com
